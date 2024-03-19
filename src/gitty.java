@@ -6,6 +6,9 @@ public class gitty {
 
 		System.out.println("vfsjhfgtwlfe");
 		System.out.println("bjaksab");
+		System.out.println("ljerjghejg");
+		System.out.println("ejhreguihtjei5onglsrngn");
+			
 	}
 
 }
